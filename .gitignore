@@ -1,0 +1,4 @@
+dbt-env/Lib
+dbt-env/Scripts
+dbt-env/pyvenv.cfg
+logs/
