@@ -13,3 +13,5 @@
 - dbt
   - [dbt official docs](https://docs.getdbt.com/docs/build/documentation)
   - [dbt blue/green deployment](https://discourse.getdbt.com/t/performing-a-blue-green-deploy-of-your-dbt-project-on-snowflake/1349)
+  - [dbt data platform connections](https://docs.getdbt.com/docs/core/connect-data-platform/about-core-connections)
+  - [dbt - google bigquery](https://docs.getdbt.com/docs/core/connect-data-platform/about-core-connections)
