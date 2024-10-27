@@ -1,0 +1,13 @@
+dbt_northwind:
+  outputs:
+    dev:
+      dataset: northwind_dataset
+      job_execution_timeout_seconds: 300
+      job_retries: 1
+      location: US
+      method: oauth
+      priority: interactive
+      project: data-eng-study-421915
+      threads: 3
+      type: bigquery
+  target: dev
